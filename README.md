@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushansm&label=Profile%20views&color=0e75b6&style=flat" alt="kushansm" /> </p>
 
 - 🎓 I’m a graduate from **SLTC University, Sri Lanka, in Engineering (Civil Engineering)**.
-- 
+  
 - 🎓 I’m currently doing **DEP at IJSE** and have finished **CMJD**.
 
 - 🔭 I’m currently working on **I’m currently working on an AI/ML model for Geuda sapphire heat treatment, a Jakarta EE project, a remote desktop client app**
@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **I am currently doing DEP at IJSE, Jakarta EE, Database, ECMA script, and MERN. I have finished CMJD.**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on Full stack development.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kushansm?tab=repositories](https://github.com/kushansm?tab=repositories)
 
 - 📫 How to reach me **kushandileep12@gmail.com**
 
