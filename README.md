@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushansm&label=Profile%20views&color=0e75b6&style=flat" alt="kushansm" /> </p>
+
 - 🎓 I’m a graduate from **SLTC University, Sri Lanka, in Engineering (Civil Engineering)**.
+- 
 - 🎓 I’m currently doing **DEP at IJSE** and have finished **CMJD**.
 
 - 🔭 I’m currently working on **I’m currently working on an AI/ML model for Geuda sapphire heat treatment, a Jakarta EE project, a remote desktop client app**
