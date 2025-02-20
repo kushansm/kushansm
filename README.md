@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushansm&label=Profile%20views&color=0e75b6&style=flat" alt="kushansm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushansm" alt="kushansm" /></a> </p>
-
 - 🔭 I’m currently working on **I’m currently working on an AI/ML model for Geuda sapphire heat treatment, a Jakarta EE project, a remote desktop client app**
 
 - 🌱 I’m currently learning **I am currently doin DEP on IJSE.Jakarta EE, Database, ECMA script and MERN.**
@@ -25,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushansm&show_icons=true&locale=en&layout=compact" alt="kushansm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kushansm&show_icons=true&locale=en" alt="kushansm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushansm&" alt="kushansm" /></p>
