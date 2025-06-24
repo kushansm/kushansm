@@ -6,7 +6,7 @@
 
 - 🎓 I’m a graduate from **SLTC University, Sri Lanka, in Engineering (Civil Engineering)**.
 
-- 🎓 I’m currently doing **DEP at IJSE** and have finished **CMJD**.
+- 🎓 I have completed **DEP at IJSE** and have finished **CMJD**.
   
 - 🔭 I’m currently working on **I’m currently working on an AI/ML model for Geuda sapphire heat treatment, a Jakarta EE project, a remote desktop client app**
 
