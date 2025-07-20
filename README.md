@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **I’m currently working on an AI/ML model for Geuda sapphire heat treatment, a Jakarta EE project, a remote desktop client app**
 
-- 🌱 I’m currently learning **I am currently doing DEP at IJSE, Jakarta EE, Database, ECMA script, and MERN. I have finished CMJD.**
+- 🌱 I’m currently learning **I am currently working as an Associate Software Engineer at IJSE, Jakarta EE, Database, ECMA script, and MERN.**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on Full stack development.**
 
