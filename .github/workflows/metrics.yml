@@ -47,4 +47,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add github-snake.svg github-snake-dark.svg
           git commit -m "Generated animated snake" || exit 0
-          git push origin main
+          git pull --rebase origin main && git push origin main
