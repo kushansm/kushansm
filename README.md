@@ -99,11 +99,17 @@ My background blends engineering problem-solving with scalable software developm
 ## 📈 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kushansm/kushansm/main/github-metrics.svg" alt="GitHub Metrics Workspace" width="98%" />
+  <img src="https://raw.githubusercontent.com/kushansm/kushansm/main/github-metrics.svg" alt="GitHub Metrics" width="98%" />
 </div>
 
+### 🐍 Contribution Activity
+<br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushansm&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&sideNumbers=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="98%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushansm/kushansm/main/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kushansm/kushansm/main/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kushansm/kushansm/main/github-snake-dark.svg">
+  </picture>
 </div>
 
 <p align="center">
