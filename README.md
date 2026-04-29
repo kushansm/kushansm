@@ -18,9 +18,9 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven **Full Stack Software Engineer** with a strong foundation in engineering and modern software development, holding an Engineering degree from SLTC University, Sri Lanka. I have also completed the DEP and CMJD programs at IJSE, where I developed expertise in enterprise application development and industry best practices. Currently, I work as a Software Engineer at Elmali-tech, contributing to the design and development of scalable, high-performance systems.
+I am a results-driven **Full Stack Software Engineer** with a strong foundation in engineering and modern software development, holding an Engineering degree from SLTC University, Sri Lanka. I have also completed the DEP and CMJD programs at IJSE, where I developed expertise in enterprise application development and industry best practices. Currently, I work as a **Software Engineer at Elmali-tech**, contributing to the design and development of scalable, high-performance systems.
 
-I specialize in building end-to-end solutions that are efficient, maintainable, and user-focused. My background combines analytical engineering thinking with hands-on development experience across modern web technologies and AI-driven systems. I am particularly passionate about leveraging emerging technologies such as machine learning and generative AI to solve real-world problems and create impactful digital products.
+I specialize in **building end-to-end solutions** that are efficient, maintainable, and user-focused. My background combines **analytical engineering thinking** with hands-on development experience across **modern web technologies and AI-driven systems**. I am particularly passionate about leveraging emerging technologies such as machine learning and generative AI to solve real-world problems and create impactful digital products.
 
 ### 🔭 Current Focus
 - Building enterprise application with clean architecture and enterprise-grade design patterns
