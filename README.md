@@ -18,18 +18,35 @@
 
 ## 👨‍💻 About Me
 
-A driven and passionate **Full Stack Developer** and **Engineering Graduate** from SLTC University, Sri Lanka. I successfully completed the DEP and CMJD programs at IJSE and currently work as an **Software Engineer at IJSE**.
+I am a results-driven Full Stack Software Engineer with a strong foundation in engineering and modern software development, holding a degree from SLTC University, Sri Lanka. I have also completed the DEP and CMJD programs at IJSE, where I developed expertise in enterprise application development and industry best practices. Currently, I work as a Software Engineer at Elmali-tech, contributing to the design and development of scalable, high-performance systems.
 
-My background blends engineering problem-solving with scalable software development. From developing enterprise-tier Jakarta EE architectures and highly interactive modern web apps, to conducting research in applied Machine Learning, I thrive on building efficient, user-centric, and technically robust solutions.
+I specialize in building end-to-end solutions that are efficient, maintainable, and user-focused. My background combines analytical engineering thinking with hands-on development experience across modern web technologies and AI-driven systems. I am particularly passionate about leveraging emerging technologies such as machine learning and generative AI to solve real-world problems and create impactful digital products.
 
-- 🔭 **Currently Building:** 
-  - An AI/ML model for Geuda sapphire heat treatment.
-  - A robust modular Jakarta EE enterprise application.
-  - Generative AI 3D platforms involving Next.js, Three.js, and Ruby on Rails.
-  - A high-performance remote desktop client application.
-- 🌱 **Deepening Expertise In:** Advanced Next.js, React Ecosystem, MERN stack, Ruby on Rails architectures, and AI/ML integrations.
-- 🤝 **Looking to Collaborate On:** Full Stack web innovation and open-source generative AI tools.
-- ⚡ **Fun Fact:** I balance my time between crafting elegant user interfaces, tweaking database queries, and exploring machine learning algorithms.
+### 🔭 Current Focus
+- Building enterprise application with clean architecture and enterprise-grade design patterns
+- Architecting a monorepo-based AI-driven 3D jewellery & fashion design platform using Next.js, Ruby on Rails, and FastAPI for scalable generative workflows
+- Developing modern web platforms such as GemsDeCeylon, a React + TypeScript application for showcasing premium Ceylon gemstones
+- Creating AI-powered applications including an English learning platform with fluency-based progression and backend AI integration
+- Engineering intelligent systems like an AI-powered company search platform leveraging LLMs (Gemini) for smart data retrieval and insights
+- Building a high-performance remote desktop client application focused on low latency and reliability
+- Developing an AI/ML model to predict outcomes of Geuda sapphire heat treatment, optimizing burning strategies and improving yield accuracy
+
+### 🌱 Technical Growth
+Continuously expanding my expertise in:
+- Advanced Next.js and the React ecosystem
+- MERN stack development and scalable frontend architectures
+- Ruby on Rails for robust backend systems
+- AI/ML integration and real-world model deployment
+- System design, performance optimization, and distributed architectures
+
+### 🤝 Collaboration Interests
+I am open to collaborating on:
+- Innovative full-stack web applications
+- AI-powered tools and generative platforms
+- Open-source projects focused on scalability, performance, and developer productivity
+
+### ⚡ Personal Note
+I enjoy balancing clean and intuitive UI/UX design with efficient backend logic, optimizing database performance, and experimenting with machine learning to build practical, real-world solutions. I am continuously driven to learn, build, and push the boundaries of what technology can achieve.
 
 ---
 
