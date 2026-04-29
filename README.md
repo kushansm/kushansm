@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-A driven and passionate **Full Stack Developer** and **Engineering Graduate** from SLTC University, Sri Lanka. I successfully completed the DEP and CMJD programs at IJSE and currently work as an **Associate Software Engineer at IJSE**.
+A driven and passionate **Full Stack Developer** and **Engineering Graduate** from SLTC University, Sri Lanka. I successfully completed the DEP and CMJD programs at IJSE and currently work as an **Software Engineer at IJSE**.
 
 My background blends engineering problem-solving with scalable software development. From developing enterprise-tier Jakarta EE architectures and highly interactive modern web apps, to conducting research in applied Machine Learning, I thrive on building efficient, user-centric, and technically robust solutions.
 
