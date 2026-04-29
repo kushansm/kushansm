@@ -99,8 +99,7 @@ My background blends engineering problem-solving with scalable software developm
 ## 📈 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushansm&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushansm&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&count_private=true" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/kushansm/kushansm/main/github-metrics.svg" alt="GitHub Metrics Workspace" width="98%" />
 </div>
 
 <div align="center">
